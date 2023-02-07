@@ -1,4 +1,0 @@
-pandas
-numpy
-pyrebase
-streamlit=1.0.0
